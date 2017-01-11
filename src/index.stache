@@ -7,6 +7,7 @@
     <can-import from="account-health-tracker/app" export-as="viewModel" />
     <can-import from="account-health-tracker/components/header/header" />
     <can-import from="account-health-tracker/components/dashboard/" />
+    <can-import from="account-health-tracker/components/breadcrumb/" />
 
     {{#if i18nInterpreter.isResolved}}
     <div class="container">

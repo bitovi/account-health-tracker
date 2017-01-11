@@ -6,7 +6,7 @@
 {{#if companyPromise.isResolved}}
   <div class="row">
     <div class="col-sm-8">
-      <h1>Bitovi</h1>
+      <aht-breadcrumb></aht-breadcrumb>
       <p>{{i18n 'dashboard.summarySectionTitle'}}</p>
     </div>
     <div class="col-sm-4">
